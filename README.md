@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isaac-Basoah
-- 🌱 I’m currently learning Sysytem Administration
+- 🌱 I’m currently learning System Administration
 - 📫 You can reach me on donike888@hotmail.com
 
 <!---
